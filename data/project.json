@@ -24,11 +24,65 @@
     "auto_populate_home_page": false,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Building Code",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "color": "#ADFEFF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "FIA",
+          "category": "Building Code"
+        },
+        {
+          "tag": "PNX",
+          "category": "Building Code"
+        },
+        {
+          "tag": "VIA",
+          "category": "Building Code"
+        },
+        {
+          "tag": "MAC",
+          "category": "Building Code"
+        },
+        {
+          "tag": "FPH",
+          "category": "Building Code"
+        },
+        {
+          "tag": "COR",
+          "category": "Building Code"
+        },
+        {
+          "tag": "ELL",
+          "category": "Building Code"
+        },
+        {
+          "tag": "ECS",
+          "category": "Building Code"
+        },
+        {
+          "tag": "LIB",
+          "category": "Building Code"
+        },
+        {
+          "tag": "Indoor",
+          "category": "Indoor/Outdoor"
+        },
+        {
+          "tag": "Outdoor",
+          "category": "Indoor/Outdoor"
+        }
+      ]
     },
     "created_at": "2025-07-07T23:16:59.559Z",
-    "updated_at": "2025-07-07T23:20:48.335Z",
+    "updated_at": "2025-07-07T23:21:05.414Z",
     "generate_pages_site": true
   },
   "annotations": {},
