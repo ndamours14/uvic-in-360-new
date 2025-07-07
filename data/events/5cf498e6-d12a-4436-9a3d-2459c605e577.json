@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "32b97771-7c8d-499e-b00e-1e4aeb24ebc0": {
+      "label": "360° University Tour! #UVicIn360",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "http://youtube.com/watch?v=9WL0XmU7KA0",
+      "duration": 196
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "360° University Tour! #UVicIn360",
+  "created_at": "2025-07-07T23:20:15.213Z",
+  "created_by": "ndamours14",
+  "updated_at": "2025-07-07T23:20:15.213Z",
+  "updated_by": "ndamours14"
+}
